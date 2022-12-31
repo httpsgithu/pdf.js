@@ -9,7 +9,7 @@
     "@babel/runtime": "^7.14.8",
     "acorn": "^8.4.1",
     "autoprefixer": "^10.3.1",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.3.0",
     "canvas": "^2.8.0",
     "core-js": "^3.16.0",
     "cross-env": "^7.0.3",
@@ -59,7 +59,7 @@
     "vinyl-fs": "^3.0.3",
     "web-streams-polyfill": "^3.1.0",
     "webpack": "^5.49.0",
-    "webpack-stream": "^6.1.2",
+    "webpack-stream": "^7.0.0",
     "wintersmith": "^2.5.0",
     "yargs": "^17.1.0"
   },
